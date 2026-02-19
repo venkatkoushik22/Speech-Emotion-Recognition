@@ -1,6 +1,6 @@
 Speech Emotion Recognition using MFCCs and 1D-CNN
 1. Project Overview
-This project focuses on building an automated Speech Emotion Recognition (SER) system using deep learning. The objective is to classify human emotions—specifically happy, sad, angry, and neutral—based solely on vocal input. The system uses advanced signal processing for feature extraction and a Convolutional Neural Network (CNN) for classification.
+This project focuses on building an automated Speech Emotion Recognition (SER) system using deep learning. The objective is to classify human emotions-specifically happy, sad, angry, and neutral-based solely on vocal input. The system uses advanced signal processing for feature extraction and a Convolutional Neural Network (CNN) for classification.
 
 2. Dataset
 The system is trained and validated on the RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) corpus.
